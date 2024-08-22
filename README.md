@@ -1,5 +1,6 @@
 1.Project Title
 HR Analytics and Employee Attrition Analysis
+
 2. Project Overview
 This project focuses on analyzing employee data to understand the factors contributing to employee attrition. The analysis includes data cleansing, exploration, visualization, and insights extraction to help the organization reduce employee turnover and improve retention strategies.
 3. Objective
